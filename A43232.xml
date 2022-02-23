@@ -1,0 +1,740 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for setling [sic] admiralty-jurisdiction, and giving encouragement to merchants, owners, commanders, masters of ships, material-men and mariners humbly offered to the consideration of His Majesty, and the two Houses of Parliament.</title>
+            <author>Hedges, Charles, Sir, 1649 or 50-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43232</idno>
+            <idno type="STC">Wing H1350</idno>
+            <idno type="STC">ESTC R12142</idno>
+            <idno type="EEBO-CITATION">13016558</idno>
+            <idno type="OCLC">ocm 13016558</idno>
+            <idno type="VID">96549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96549)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 741:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for setling [sic] admiralty-jurisdiction, and giving encouragement to merchants, owners, commanders, masters of ships, material-men and mariners humbly offered to the consideration of His Majesty, and the two Houses of Parliament.</title>
+                  <author>Hedges, Charles, Sir, 1649 or 50-1714.</author>
+               </titleStmt>
+               <extent>[2], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  High Court of Admiralty.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96549:1"/>
+            <p>REASONS For Setling Admiralty-Juriſdiction, AND Giving Encouragement to Merchants, Owners, Commanders, Maſters of Ships, Material-Men and Mariners.</p>
+            <p>
+               <hi>Humbly offered to the Conſideration of His</hi> MAJESTY, <hi>and the Two Houſes of</hi> PARLIAMENT.</p>
+            <p>Printed in the Year, 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:96549:2"/>
+            <pb n="1" facs="tcp:96549:2"/>
+            <head>REASONS For Settling the Admiralty-Juriſdiction, &amp;c.</head>
+            <p>THere is nothing can conduce more to the Peopling and enriching a Kingdom, or Common-wealth, than a free and open Trade; and as that by Sea is the princi<g ref="char:EOLhyphen"/>pal ſource of ſuch Happineſs, it may very well deſerve the Governments moſt particular Care and Application to ad<g ref="char:EOLhyphen"/>vance it.</p>
+            <p>And ſince this is no other way to be done, but by enabling the King to ſet forth Fleets for the Merchants Security abroad, and eſtabliſhing good Laws for defending them in their Rights and Properties at Home, it is moſt humbly propoſed, Whe<g ref="char:EOLhyphen"/>ther this may not be effected with the greateſt Eaſe and Ad<g ref="char:EOLhyphen"/>vantage, by re-ſetling the Admiralty Juriſdiction, and reſtor<g ref="char:EOLhyphen"/>ing the ancient Power of enrolling Mariners.</p>
+            <p>Uſage and Experience were always accounted very good Directors; and therefore, the better to accompliſh this De<g ref="char:EOLhyphen"/>ſign, it may not be improper, in the firſt place, to give a ſhort Account of the Methods obſerved by our Anceſtors, in whoſe times, our Sea-dominion was at the greateſt height, and Trade in as flouriſhing condition as thoſe Ages would admit: and in the next place, to conſider of the beſt means to improve theſe Methods, and adapt them to the preſent Times.</p>
+            <p>The Sea-coaſts of <hi>England</hi> were anciently divided into ſe<g ref="char:EOLhyphen"/>veral Vice-Admiralties, <hi>viz.</hi> 1. <hi>Northumberland, Durham</hi> and <hi>York.</hi> 2. <hi>Lincoln.</hi> 3. <hi>Norfolk.</hi> 4. <hi>Suffolk.</hi> 5. <hi>Eſſex.</hi> 6. <hi>Kent.</hi> 7. <hi>Suſſex.</hi> 8. <hi>Southampton.</hi> 9. <hi>Dorſet.</hi> 10. <hi>Devon.</hi> 11. <hi>South-Cornwall.</hi> 12. <hi>North-Cornwal.</hi> 13. <hi>Somerſet.</hi> 14. <hi>Gloceſter.</hi> 15. <hi>South-Wales.</hi> 16. <hi>North-Wales.</hi> 17. <hi>Cheſter.</hi> 18. <hi>Lancaſter.</hi> 19. <hi>Westmorland</hi> and <hi>Cumberland.</hi>
+            </p>
+            <p>Each of theſe places (the Port of <hi>London</hi> being immediately under the Admiralty Court, as to this matter) had a particu<g ref="char:EOLhyphen"/>lar Vice-Admiral, who had Power to hold a Seſſions once in the Year, or oftner, if occaſion required, and to call before
+<pb n="2" facs="tcp:96549:3"/>him, or his Officer, all Sea-faring Men and Mariners, living within his Diſtrict or Diviſion, and then, and there to enrol all their Names and Places of abode, taking Account likewiſe, of all Ships within their Juriſdiction.</p>
+            <p>This was the Method uſed ſeveral hundreds of years ſince, as appears by certain Maritime Laws and Ordinances, Regi<g ref="char:EOLhyphen"/>ſtred in the ancient Authentick <hi>Black Book</hi> of the Admiralty; four Articles of which, are as followeth:</p>
+            <p n="1">1.
+<note place="margin">
+                  <hi>Litera</hi> A. n. 1, 2, 3.</note> Puiſque l'homme eſt fait Admiral, premierement luy fault Ordonner &amp; ſubſtituer deſſoubs luy pour eſtre ſes Lieu<g ref="char:EOLhyphen"/>tenants, Deputez &amp; autres Officiers, des plus loyaulx, ſages &amp; diſcrets en la Loy Marine, &amp; anciens couſtumes de la Mer qu'il pourra en aucune part trouver, par ainſy que par l'aide de Dieu, &amp; leur bonne &amp; droitture Governaill l'office pourra eſtre gouverne a l'honneur &amp; prouffit du Royalme.</p>
+            <p n="2">2. <hi>Item,</hi> Apres doit l'Admiral en toute la haſte qu'il bon<g ref="char:EOLhyphen"/>nement pourra eſcripre a tous ſes Lieutenants Deputez, &amp; autres Officiers quelconques par tous les coſtez de la Mer, parmy toute la Royalme pour ſavoir combien de Nefs, barges, balengers, &amp; autres veſſeaulx de guerre le Roy pourra avoir en ſon Royalme, quant lui pleſt, ou meſtier lui fera, &amp; de quel portage ils ſont, &amp; auſſi les noms des Seigneurs &amp; poſ<g ref="char:EOLhyphen"/>ſeſſeurs d'icelles.</p>
+            <p n="3">3. <hi>Item,</hi> Pour ſavoir auſſi par bonne, &amp; loyalles enqueſtes pris par devant les dits Lieutenants Deputez cu autres Offi<g ref="char:EOLhyphen"/>ciers de l'Admiral combien des Mariniers deffenſibles ſont ou Royalme, &amp; la cauſe eſt pourceque s'il ſoit de ce demande de l'Admiral par le Roy ou ſon Conſcil, qu'ily doncques bonne<g ref="char:EOLhyphen"/>ment &amp; juſtement a eulx monſtrer le nombre tant de nefs, barges, balingers, &amp; d'autres veſſeaulx de guerre &amp; auſſi les noms des Seigneurs &amp; poſſeſſeurs d'icelles, comme le nombre de tous Mariners defenſibles parmy le Royalme, &amp; ainſy ſaura le Roy &amp; ſon Conſcil de certain tousjours ſa force par la Mer.</p>
+            <p>Et pource qu'il a ete pluſieurs fois debatu en Angleterre pour les Arrers des Nefs quant le Roy a mande Sergeants d'ar<g ref="char:EOLhyphen"/>mes ou autres Miniſtres pour arreſter nefs al ceps du Roy,
+<note place="margin">
+                  <p>
+                     <hi>Liter. C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. n.</hi> 16</p>
+                  <p>If ancient uſage and cu<g ref="char:EOLhyphen"/>ſtom be Law in <hi>Engl.</hi> There is little doubt of Their Majeſties Authority for preſſing Ships and Mariners; but for the Satisfaction of the curious, they may conſult the Records quoted by Mr. <hi>Pryun</hi> in his Animadverſ. Fol. 127. and alſo conſider the Statutes, 2 <hi>R.</hi> 2.4. 18 <hi>H.</hi> 6.19. 2 &amp; 3. <hi>P.</hi> &amp; <hi>M.</hi> 16. 5 <hi>El.</hi> 5.43 <hi>El.</hi> 3.</p>
+               </note> &amp; les Seigneurs des nefs ſont venus devant l'Admiral, &amp; alle<g ref="char:EOLhyphen"/>guent
+<pb n="3" facs="tcp:96549:3"/>que leur nefs n'eſtoyent mye arreſtees, ordonne eſtoit <hi>au temps du Roy Richard le premier a Grymnesby par advis de pluſieurs Seigneurs du Royalme</hi> que quant-nefs ſerent arreſtees pour ſervice du Roy que le Roy eſcripta par ſes Lettres Patentes a l'Admiral d'arreſter les Nefs, <hi>&amp;c.</hi>
+            </p>
+            <p>If the Sea-faring Men were not obedient to the Vice-Admiral's ſummons and orders made according to the Ma<g ref="char:EOLhyphen"/>ritime Laws, they had a coercive power ſufficient to oblige them to be enrolled, and to go into the King's ſervice whenever occaſion required.</p>
+            <p>This method of raiſing Sea Men was continued in good order down to the end of the proſperous Reign of Queen <hi>Elizabeth,</hi> from which time it began to be neglected, and ſo dwindled by degrees, till at laſt the uſe and practice of it quite vaniſhed, inſomuch, that at this day the very re<g ref="char:EOLhyphen"/>membrance of it is almoſt loſt; and 'tis not at all ſtrange that it ſhould be ſo, if we conſider the temper of King <hi>James</hi> the firſt, the circumſtances of King <hi>Charles</hi> the firſt, the late troubles, the remiſneſs of the Reign of King <hi>Charles</hi> the ſecond, and the deſigns of the late King.</p>
+            <p>During the two laſt Reigns, who would not think but the deſign was to transfer the Soveraignty of the Seas, and trade of the World to <hi>France,</hi> ſince ſuch Induſtry was uſed by the Kings themſelves, not only to inſtruct the French King in the building Ships of War, and ſetting out Fleets, but alſo in the giving him aſſiſtance in the compiling of his Sea-laws, ſet forth in the Ordinances of that King in the year 1681 The French had from hence alſo the firſt foot<g ref="char:EOLhyphen"/>ſteps of their exquiſite method of enrolling Mariners. And if it ſhall be thought fit for the Kingdoms ſervice, or in any meaſure conducing to our Happineſs, why ſhall we not follow likewiſe the more glorious Example of our preſent King, in endeavouring to retrieve it? We have certainly the greateſt motives that ever Engliſh Men had, to excite every one in his reſpective ſtation, to give his Majeſty thoſe hearty aſſiſtances as may under the bleſſing of God regain the betray'd honour of the Nation, and ſettle the Peace, Plenty, and Glory thereof, for which, next to the eſtabliſhment of our Religion, our Royal Leader hath hazard<g ref="char:EOLhyphen"/>ed
+<pb n="4" facs="tcp:96549:4"/>more than ever any of our Kings did before him.</p>
+            <p>And therefore ſince a ready way of raiſing a ſufficient number of Seamen to Man the Fleet, is of the greateſt concern in this affair, and the encouraging of them volun<g ref="char:EOLhyphen"/>tarily to enter into their Majeſties ſervice, is of no leſs im<g ref="char:EOLhyphen"/>portance, it is humbly propoſed whether this may not be done moſt effectually by emproving the ancient Methods of preſſing Seamen with a Bill in Parliament, to this pur<g ref="char:EOLhyphen"/>poſe, <hi>viz.</hi>
+            </p>
+            <p n="1">1. That ſuch Sea-men as ſhall voluntarily enrol themſelves in the Admiralties or Vice-Admiralties, may be exempt from petty Offices in the Pariſhes where they live, and al<g ref="char:EOLhyphen"/>ſo from the payment of Pariſh-duties, Taxes and the like, during their lives, or ſo long as they ſhall continue en<g ref="char:EOLhyphen"/>rolled.</p>
+            <p n="2">2. That all Prizes be divided into three parts, one third to the Captor, and his Ships-Crew, another to go to the Cheſt at <hi>Chatham,</hi> towards a Proviſion for ſick and wound<g ref="char:EOLhyphen"/>ed Mariners, and the Widows and Children of ſuch as are ſlain; the remaining third to pay the charge of Prize-Officers.</p>
+            <p n="3">3. That the Act of Parliament 43. <hi>Eliz.</hi> 3. concerning the relief of Soldiers and Mariners be amended, and the Mony collected by vertue thereof, tranſmitted to the <hi>Chath<g ref="char:EOLhyphen"/>am Chest</hi> for the uſes aforeſaid: That Mony amounts to a<g ref="char:EOLhyphen"/>bout 14000 <hi>per ann.</hi> and may with care be made as much more if it ſhall be found requiſite, and as it is now ordered is of little or no uſe to the Government.</p>
+            <p n="4">4. If it may conſiſt with their Majeſties affairs that the wages of Captains, Officers and Seamen be a little advanced, they being not ſo good (conſidering the preſent value of Mo<g ref="char:EOLhyphen"/>ny) as they were formerly.</p>
+            <p n="5">5. That ſuch Mariners as ſhall not voluntaily enrol them<g ref="char:EOLhyphen"/>ſelves or appear upon the Vice-Admirals Summons, or ſtand out till they are preſſed, ſhall not have the benefit of the a<g ref="char:EOLhyphen"/>foreſaid Priviledges and Exemptions.</p>
+            <p n="6">6. That no Captains, Commanders, or Seamen remain in Foreign Service in time of War, without Licenſe, and that they return upon their Majeſties Proclamation, under ſuch a penalty as ſhall be thought fit.</p>
+            <p>If ſuch a reeſtabliſhment of the Admiralities, Vice-Admi<g ref="char:EOLhyphen"/>ralties
+<pb n="5" facs="tcp:96549:4"/>were made, beſides, the benefit of eaſily ſupplying the Fleet wih Mariners, theſe further advantages would ac<g ref="char:EOLhyphen"/>crue to ther<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſties and ſuch of their Subjects and Allyes as ſhould <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e concerned in Sea-affairs, which will tend very much to the advancement of Trade and Navigation.</p>
+            <p n="1">1. In t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of War the Officers of the ſeveral Vice-Admi<g ref="char:EOLhyphen"/>ralties, night take the care and charge of all Prizes brought into thei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſpective Diſtricts, which would make the buſi<g ref="char:EOLhyphen"/>neſs mu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> more eaſie, and alſo ſave a great part of the charge to their Majeſties; for it may be eaſily demonſtra<g ref="char:EOLhyphen"/>ted whe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever it ſhall be required, that this buſineſs may be manage<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for own third part of the proceed of Prizes, and the ot<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er two thirds may be applied to the Cheſt at <hi>Chath<g ref="char:EOLhyphen"/>am,</hi> a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d given to the Captor and his Crew, as is before hinted.</p>
+            <p n="2">2. Their Majeſties and the Lord Admiral's Rights and Per<g ref="char:EOLhyphen"/>quiſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es in time of Peace as well as War would be preſer<g ref="char:EOLhyphen"/>ved. whereas at preſent no manner of care is taken thereof, no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>withſtanding that they are many times of a conſiderable value.</p>
+            <p n="3">3. The Cuſtoms of Goods Ship-wrecked as well as the Lord Admiral's due will be better preſerved, and their Majeſties will not be ſo eaſily defrauded thereof by People that ſteal ſuch Goods, or by inferiour Officers conniving at, or combi<g ref="char:EOLhyphen"/>ning with them: not only becauſe the Vice-Admirals, who have the care thereof are uſually Noblemen, or Gentlemen of the beſt Qualities and Eſtates, and ſo have great Autho<g ref="char:EOLhyphen"/>rity and Power in their ſeveral Countries, but alſo be<g ref="char:EOLhyphen"/>cauſe the Vice-Admiral or his Officer, and the Cuſtomer, will each of them be obliged to ſet a Lock on the ſalved Goods, and one will be a check upon the other.</p>
+            <p n="4">4. Where Merchants are in diſtreſs at Sea near the Shoar, or run a ground, the Officers of the Vice-Admirals would be ready to aſſiſt, knowing that they ſhall be recom<g ref="char:EOLhyphen"/>penced according to their pains, and puniſhed if they re<g ref="char:EOLhyphen"/>fuſe: Whereas at preſent the Country People make a prey of thoſe miſerable Merchants, and will afford no manner of aſſiſtance, but rather contrive all they can that the Ship may be caſt away, nay many times are ſo barbarous to kill or drown People making eſcape to land, that thereby they might have a pretence to a Wreck.</p>
+            <pb n="6" facs="tcp:96549:5"/>
+            <p n="5">5. When Ships or Goods are caſt away, and any part thereof driven on Shoar, the Vice-Admirals would take care to keep off the Rabble, and ſecure all f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r their true Proprietors, upon moderate Salvage, whereas at preſent every one taketh away what he can get, and no emedy.</p>
+            <p n="6">6. If the Vice-Admirals or their Officers happened not to be preſent at the time when any Ship was caſt away, or Goods driven on Shoar, they would as they <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id uſually in that caſe heretofore, iſſue out Commiſſions of Enquiry, or procure ſuch Commiſſions from the High Cou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of Ad<g ref="char:EOLhyphen"/>miralty, and ſummon what Perſons they pleaſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before them, and ſo examin by Maritime evidence, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake im<g ref="char:EOLhyphen"/>mediate reſtitution of all that was ſaved to the Ow<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers up<g ref="char:EOLhyphen"/>on ſuch Salvage as was meet, and puniſh all the Ofenders that ſtole away, or embezeled the ſaid Goods; <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereas that Juriſdiction being now interrupted, there is no relief for the Sufferers but by way of <hi>Trover, Treſpaſs,</hi> or other Actions at Common-Law, which muſt be brought ſeparately againſt the ſeveral Parties offending; the multiplicity of ſuch ſuits will in the end but add to their Affliction in ſpen<g ref="char:EOLhyphen"/>ding their time and mony; for many times at the laſt, when they have ſtayed half a year or more for the Aſſizes, and thoſe things are brought on to a tryal, it ſo happens that the Witneſſes (whoſe whole livelihood conſiſt's in trade and being on board Ships) are gone to Sea, and ſo Evidence cannot be brough<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Viva Voce</hi> to prove the intereſt in the Goods, as thoſe ways of Action require.</p>
+            <p n="7">7. Mariners will have a quick and eaſie diſpatch in the Admiralty Courts, they being always open and ready to de<g ref="char:EOLhyphen"/>termine at one hearing in a Week's time, or leſs, when<g ref="char:EOLhyphen"/>ever they come on Shoar; and they may alſo joyn a whole Crew in one Action, whereas at Common Law they muſt be ſeveral, and muſt alſo attend the Terms or Aſſizes, which they cannot do without Ioſing their employments.</p>
+            <p n="8">8. Builders of Ships and Material-Men, who furniſh them with all ſorts of Proviſion for ſetting them forth to Sea, would in the Admiralty Courts have likewiſe a quick diſpatch and remedy againſt the Ship by them built, re<g ref="char:EOLhyphen"/>paired and furniſhed; whereas at preſent if the Party that they contracted with for the ſame, proves inſolvent, and procures a Prohibition, which is uſually done, they have no
+<pb n="7" facs="tcp:96549:5"/>remedy at all, which is a great Diſcouragement to ſetting out of Ships, and has occaſioned frequent and very grievous Complaints.</p>
+            <p n="9">9. Upon the Eſtabliſhment of thoſe Courts, the Fiſheries on all the Coaſts and Navigable Rivers would be preſerved; about which, no effectual care is taken at the preſent.</p>
+            <p n="10">10. All Annoyances in Ports and Navigable Rivers would be preſented in the Admiralty-Courts, and Offenders puniſh<g ref="char:EOLhyphen"/>ed, and made reſponſible for Damages done thereby; which of late has been neglected, and no Relief to be had for ſuch as have ſuffered thereby, eſpecially, where a Ship or Anchor doth Damage, and the Maſter thereof proves inſolvent.</p>
+            <p n="11">11. The Re-ſetling of theſe Courts would be an In<g ref="char:EOLhyphen"/>couragement to Men of Parts, to apply themſelves to the Study of the Laws of Nations, and of the Sea; whereas at this time, that Profeſſion, heretofore thought to be of ſome uſe to the Government, ſeems to be altogether diſcontinued and neglected. However, it is not the benefit of any Pro<g ref="char:EOLhyphen"/>feſſion that is to be regarded in this matter, but the general Advantage of the People, for which end all Laws are made; and if thoſe Laws afford the beſt Remedy, in all reaſon, they ought to take place, and be promoted.</p>
+            <p>The Common Law, although moſt excellent in its kind, yet being framed for Land Affairs only, will be found too narrow for the Deciſion of all the Differences ariſing among Sea-faring Men and Merchants. Nay, the very <hi>Roman</hi> Laws acknowledged by all to be the moſt comprehenſive, are deficient in thoſe Caſes, unleſs they take in the Maritime Laws, the ex<g ref="char:EOLhyphen"/>cellency of which doth not only conſiſt in proper Rules, made by the long Obſervation of Traders, but alſo, in the incomparable diſpatch that is given to Maritime Affairs at all times and ſeaſons; a thing abſolutely neceſſary for the Incouragement of Trade and Navigation, and no where elſe to be had, but in the Courts of Juſtice, Eſtabliſhed for that end and purpoſe: And this may be plainly demonſtrated in the following Caſes. Concerning,
+<list>
+                  <item>1. Building, Repairing, Victualling, and furniſhing Ships to Sea.</item>
+                  <item>2. Contributing towards ſetting forth upon Voyages.</item>
+                  <item>3. Caſes of Bottomry.</item>
+                  <item>4. Contracts made beyond the Seas.</item>
+                  <pb n="8" facs="tcp:96549:6"/>
+                  <item>5. Damages on the Sea, and Navigable Rivers.</item>
+                  <item>6. Mariners Wages.</item>
+                  <item>7. Freight and Charter-Parties.</item>
+                  <item>8. Miſdemeanours and Nuſances in Navigable Rivers.</item>
+                  <item>9. Foreigners Debts.</item>
+               </list>
+            </p>
+            <p n="1">1.
+<note place="margin">Builders and material Men, have the beſt Remedy for their Debts in the Admi<g ref="char:EOLhyphen"/>ral.</note> By the Sea Laws, the Ship is liable to the Builders, Amend<g ref="char:EOLhyphen"/>ers, and Victuallers thereof: But by the Common Law, the Perſon that made the Agreement, who often is an inſolvent Maſter, or Part-Owner, and ſometimes ſet up for that very end, is only liable; ſo that if the Builder, Repairer, or Victu<g ref="char:EOLhyphen"/>aller, ſhould be conſtrained to ſue at common Law, they would not only loſe their chief Security, but would alſo be forced to bring each Man his ſeparate Action; whereas they might be all joyned in one Action in the Admiralty.</p>
+            <p>Beſides, the Ship or Veſſel being proceeded againſt in the Admiralty, every Part-Owner is liable for his ſhare; where<g ref="char:EOLhyphen"/>as, if the Maſter or Part-Owner that made the Contract, be ſued at Common Law, if he be ſolvent, will be conſtrained to pay the whole; and yet many times cannot recover the reſpective ſhares of his Part-Owners; at leaſt, without be<g ref="char:EOLhyphen"/>ginning another Suit in <hi>Chancery.</hi>
+            </p>
+            <p n="2">2.
+<note place="margin">The Ad<g ref="char:EOLhyphen"/>miralty to or<g ref="char:EOLhyphen"/>der Ships to be ſet out to Sea, although ſome Part-Owners re<g ref="char:EOLhyphen"/>fuſe to con<g ref="char:EOLhyphen"/>tribute.</note> If a Part-Owner refuſes to contribute to the ſetting out of a Ship, the Admiralty-Court uſes to take Bail of thoſe that would ſet the Ship forth, to return her within a com<g ref="char:EOLhyphen"/>petent time, or elſe to pay the other Part-Owner that re<g ref="char:EOLhyphen"/>fuſes to contribute for his Part, according to an Appraiz<g ref="char:EOLhyphen"/>ment then made: And if this Practice of the Admiralty ſhould be interrupted, it would be in the Power of one croſs Part-Owner to keep the Ship by the Walls, the Conſequence whereof may be eaſily imagined; and yet the Admiralty is many times obſtructed in the Caſes following: <hi>Viz.</hi>
+               <list>
+                  <item>1. Differences about ſetting forth Ships upon Voyages, often happen, in regard more parts are ſold than are in the Ship; and then, if the Admiralty goes to examine into the Truth of ſuch Bills of Sale, the Party obtains a Prohibition.</item>
+                  <item>2. Sometimes a Part-Owner mortgages his Part, and both the lender and borrower come in upon the Proceedings of the Admiralty to contribute, and if any Party cannot obtain his end, he preſently moves for a Prohibition.</item>
+                  <pb n="9" facs="tcp:96549:6"/>
+                  <item>3. Frequently a Part-owner that is called to Contribute, will firſt deſire that the Maſter may give his Ac<g ref="char:EOLhyphen"/>counts, which the Court cannot in Juſtice deny; and yet if it be ordered, ſuch croſs Part-owner has his end, and immediately thereupon obtains a Prohibition or an Injunction; in all which caſes it is requiſite that the Admiralty that has an undoubted Juriſdiction in the principal Cauſe of Contributing to ſet a Ship forth, ſhould likewiſe have Power to Determine thoſe incident Queſtions, or elſe Trade and Navigation will be much diſcouraged.</item>
+               </list>
+            </p>
+            <p n="3">3.
+<note place="margin">Cauſes of Bottomry.</note> By the Common Law the Maſter cannot Pawn the Ship for Neceſſaries, altho in the greateſt Extremity, and therefore a Voyage is many times loſt; but by the Laws of the Admiral<g ref="char:EOLhyphen"/>ty the Ship is chargeable upon Bills of Bottomry, provided that the Mony advanced be proved to be laid out for things actually employed in and about the Ship, being in abſolute neceſſity, and without which ſhe could not proceed, whereby the Voyage is performed: And if the Admiralty Juriſdiction be obſtructed in this, a neceſſary expedient of Navigation would be loſt, and our Ships when driven into Foreign parts, muſt lye there, till the Maſter can ſend home, and pro<g ref="char:EOLhyphen"/>cure Mony to be remitted to him; whereas the Ship with other Nations is the ſtanding Credit in ſuch caſes of Ne<g ref="char:EOLhyphen"/>ceſſity.</p>
+            <p n="4">4.
+<note place="margin">Contracts made beyond the Seas.</note> Contracts made beyond the Seas concerning Maritime Affairs may more conveniently be tried in the Admiralty, than at the Common Law, becauſe the Witneſſes cannot oftentimes attend at the Tryal, as the courſe of that Law requires; but in the Admiralty they may be at any time taken in Writing, or if there be occaſion, examined by Commiſſion in Foreign parts.</p>
+            <p>Contracts beyond Sea are made by the Rules of the Mari<g ref="char:EOLhyphen"/>time Laws, and by Perſons Experienced therein, and there<g ref="char:EOLhyphen"/>fore Foreigners have reaſon to expect to be Tryed by the ſame Laws here, as well as in their own Country: For if the Validity of ſuch Contracts ſhould be Tryed by the Common Law, which differs from the Rules of the Maritime Laws, the Contract that was as well and firmly made by them, as was poſſible, may in the end have no effect and force.</p>
+            <pb n="10" facs="tcp:96549:7"/>
+            <p n="5">5.
+<note place="margin">Damages at Sea, and in Navigable Rivers.</note> If Damages happen by ill Stowage, or Inſufficiency of the Ship, or by reaſon of Storms, or the like, there are known Laws whereby the Admiralty Court uſes to Proceed.</p>
+            <p>If Damage be done by one ſhip running againſt another at Sea, or in Navigable Rivers, or by Anchors for want of Buoys, or the like, the utmoſt remedy that the Common Law gives, is againſt the Maſter and Mariners, which are for the moſt part inſolvent, unknown, or abſent: In all which Caſes the Laws uſed in the Admiralty give remedy againſt the Ship.</p>
+            <p>In caſe of the loſs of a Ship before it comes to the Port of Delivery, by the Maritime Laws the Mariners ſhall receive Wages, and the Owners Freight to the laſt Port of Delivery and no farther; but by the Common Law for ſo long as they have Served, loſs or not loſs they may recover: Likewiſe in caſe of Average or caſting Goods over Board in a Storm, the Maſter, Mariners, and Owners ſhall bear their proportion of the Loſs: which things altho they are very juſt and equitable, and great obligations to uſe care and diligence, yet are un<g ref="char:EOLhyphen"/>known and not obſerved in Proceedings at Common Law.</p>
+            <p n="6">6.
+<note place="margin">Mariners Wages.</note> If the Mariner knows he muſt Sue for his Wages in the Admiralty, and not at the Common Law, he will be there<g ref="char:EOLhyphen"/>by obliged to more Diligence and Obedience: For if he be Mutinous, Diſobedient, or Deſerts the Ship, he makes a total Forfeiture of all his Wages: If he purloyns or embezels any of the Goods, or be faulty in the due Stowage thereof, or damage happens for want of Pumping, or through his default, his Wages will be lyable to a proportionable ſatisfaction; whereas at Common Law, the Mariner will recover his Wages for ſo long time as he has Served, and leave the Commander or Owner of the Ship or Goods, to ſeek his Satisfaction for the Damages aforeſaid; and this may alſo be done by Letter of Attorny, and ſo there is no remedy, which is a great diſ<g ref="char:EOLhyphen"/>couragement to Foreigners to lade their Goods on <hi>Engliſh</hi> Veſſels. And as the Mariner is Puniſhed if he be Faulty, ſo he has an eaſy relief in the Admiralty, if he doth his Duty.</p>
+            <p>The neceſſity of a Mariner's condition requires a quick diſ<g ref="char:EOLhyphen"/>patch, which is accordingly provided for by the Court of Admiralty, kept weekly in the Vacations, as well as in the Terms: And altho Forty Mariners may be included in one Action, yet the whole may be Determined in a Weeks time;
+<pb n="11" facs="tcp:96549:7"/>whereas, at the Common Law, every Mariner muſt bring his ſeveral Action, to the great charge of the ſeveral De<g ref="char:EOLhyphen"/>fendants as well as themſelves, and muſt all attend till the Term or Aſſizes for a Tryal, and perhaps at laſt want evi<g ref="char:EOLhyphen"/>dence, when in the Admiralty he can have the Oath of the Contractor, for diſcovering the Contract, which is uſually private, and not to be proved by Witneſſes. Beſides by the courſe of Common Law the remedy for the Mariner is only againſt the Contractor, who may not be found, or elſe inſolvent; but in caſe he be found, and ſolvent there is another inconvenience on the other ſide, for the Contractor will be forced to pay the whole Wages, and yet many times cannot recover the ſhares that are due from his part-own<g ref="char:EOLhyphen"/>ers, without a Chancery-ſuit; whereas in the Admiralty, the Mariner may have relief againſt the Ship or Freight that is due, and the whole difference be determined at once.</p>
+            <p n="7">7.
+<note place="margin">Freight and Charter-Parties.</note> There is ſo neceſſary a relation betwixt Freight and Wages, that it will be very inconvenient to try them in ſeparate Judicatures. Becauſe,</p>
+            <p n="1">1. Uſually the Wages are paid out of the Freight.</p>
+            <p n="2">2. There be divers caſes wherein Mariners Wages are to be abated, in reſpect of an abatement of Freight, as in caſe of loſs or ſpoiling the Merchants Goods.</p>
+            <p n="3">3. If the Maſter and Owner are ſued in the Admiralty for Wages, and forced to ſue at Common Law for Freight out of which they ſhould pay ſuch Wages, perhaps a Judg<g ref="char:EOLhyphen"/>ment may paſs againſt them immediately upon a ſummary hearing in the Admiralty, and yet they ſhall not be able to recover their Freight, in three Months time or longer at the common Law.</p>
+            <p n="4">4. There is a neceſſity in many caſes to depart from the Letter of the Charter-Party, otherwiſe the Merchant, Maſt<g ref="char:EOLhyphen"/>er and Owner may be ruined. This the Maritime Laws and courſe of Admiralty doth permit, which the Common Law doth not. For inſtance,
+<q>A Contract is made for ſix months, payable monthly by the Charter-Party; yet if within the time the Ship be embargoed, no Freight ſhall be paid for that time; likewiſe, if the Goods periſh before a Port be made, there is no Frieght or Wages to be paid.</q>
+            </p>
+            <pb n="12" facs="tcp:96549:8"/>
+            <p n="5">5. The Freight of one Voyage is the ſupply of another, and therefore requires a very quick diſpatch, for the ad<g ref="char:EOLhyphen"/>vancement of Trade and Navigation, which is ſetled by the courſe of Admiralty, and cannot be by the courſe of Common Law.</p>
+            <p n="6">6. The Freighter may be upon or beyond the Sea, and cannot be arreſted, or maybe inſolvent, whereby the Maſt<g ref="char:EOLhyphen"/>er and the Owner of the Ship is remedileſs at the Com<g ref="char:EOLhyphen"/>mon Law; but by the Maritime Law the Goods may be arreſted, and upon default condemned for the payment of the Freight; and this is the great ſecurity of the Maſter and Owner.</p>
+            <p n="7">7. If Freight muſt be ſued for at Common Law, the Maſter and Owners of the Ship may ſue for the ſame by Letter of Attorney, and the Freight ſhall not be ſtop'd for damage done to the Goods, or embezelments: For the courſe of Common Law is not to ſtop by way of compenſation, but a Verdict paſſes for the Freight upon the Charter-Party, according to agreement, and ſo the Owner of the Goods is defeated of his ſatisfaction, accord<g ref="char:EOLhyphen"/>ing to the Maritime Law for damage, or embezelments, beſides the inconveniency of multiplying Actions; whereas the whole may be more properly decided, by one and the ſame Action in the Admiralty, and many times is done upon a ſummary hearing, in a Week or Fortnights time, by which means, the great expence of Mony and Time, two of the moſt neceſſary ſupplies of Trade is pre<g ref="char:EOLhyphen"/>vented.</p>
+            <p n="8">8.
+<note place="margin">Miſdemea<g ref="char:EOLhyphen"/>nours and Nu<g ref="char:EOLhyphen"/>ſances in na<g ref="char:EOLhyphen"/>vigable Ri<g ref="char:EOLhyphen"/>vers.</note> Miſdemeanours and Nuſances in navigable Rivers did formerly, and may again with great conveniency be ſetled under the Admiralty Juriſdiction. The Com<g ref="char:EOLhyphen"/>mon Law doth not, and if the Admiralty ſhould not intermeddle, there will be a failure of Juſtice in thoſe caſes.</p>
+            <p>A Merchant lives beyond Sea,
+<note place="margin">Foreign<g ref="char:EOLhyphen"/>ers debts.</note> or cannot be found, but has a Ship come into a Port, or Navigable River, or it may be, has Goods on Board, and owes ſome of Their Majeſties Subjects Mony; one of theſe Arreſteth the Ship or Goods by an Admiralty-Warrant, and thereupon Bail is given to the Action: Is it not reaſonable that Their Majeſties Subjects ſhould proceed to Sentence, and have the benefit of the Law
+<pb n="13" facs="tcp:96549:8"/>of Nations? Shall a Prohibition be ſent to ſtop Proceedings, when the Common Law can give him no Remedy? Or, that one of Their Majeſties Courts ſhould hinder the other, when they can give no manner of Relief themſelves? This is cer<g ref="char:EOLhyphen"/>tainly to be redreſſed, if Trade be to be incouraged, ſince it preſerves Foreigners and Fugitives from paying their juſt Debts, by reaſon that their Perſons cannot be apprehended.</p>
+            <p>If theſe Matters may be thought fit to be reſetled in the Admiralty Court, it is humbly deſired, That leave may be obtained for bringing a Bill into Parliament for that end, ſo that it may be poſitively determined, what Cauſes ſhall be<g ref="char:EOLhyphen"/>long to that Juriſdiction: For the old Statutes that reſtrain it, as they have in the late Reigns been put in Execution, are the terrour of Merchants, Owners, Material-Men, and others that live by Sea-Trade, inſomuch, that they dare not think of ſuing in the Admiralty, for their juſt Damages and Debts, contracted by Maritime Employments, but are forced con<g ref="char:EOLhyphen"/>tentedly to ſit down with ſuch their Loſſes, for fear of being ſued at the common Law, upon the Action of double Da<g ref="char:EOLhyphen"/>mages, which is very hard; when thereby they are not only deprived of the beſt Relief, but in many of the foregoing Caſes, they have no ways to begin an Action at Common Law.</p>
+            <p>This Juriſdiction has been ſeveral times ſetled, particularly by the King in Council, in the year 1632. after which it being interrupted, it was in the late times thought neceſſary to be reſetled by Ordinances of Parliament, as may be ſeen in <hi>Scobell</hi>'s Collection, <hi>C.</hi> 112. <hi>Anno</hi> 1648. <hi>f.</hi> 147. and <hi>C.</hi> 23. <hi>Anno</hi> 1649. <hi>f.</hi> 16. Since the Reſtauration it has been again interrupted by Prohibitions, which gave occaſion for ſeveral Petitions from many conſiderable Merchants, Maſters, Owners, and Material-Men; one of which Petitions is here<g ref="char:EOLhyphen"/>unto annexed, but they could have no relief during the two laſt Reigns. However it is hoped, that this Parliament will reſtore ſo neceſſary an incouragement of Trade and Navi<g ref="char:EOLhyphen"/>gation, the cheifeſt Wealth and Support of the Kingdom.</p>
+            <p>It muſt be expected, that ſome of the common Lawyers will oppoſe ſuch a Bill, for the ſame reaſons that ſome Civili<g ref="char:EOLhyphen"/>ans will promote it: But either of their private Advantages is not to be regarded, but only the publick Good. It may be eaſily demonſtrated, that the Admiralty anciently had
+<pb n="14" facs="tcp:96549:9"/>cognizance of many more Cauſes than are above-mentioned: And on the other ſide it is as plain, that Prohibitions have been awarded in moſt, if not all of them: But Arguments drawn from thence, would do no more than tell the World, that one Juriſdiction oppreſſed the other, according as it had Power, and between both, did grind and harreſs the Subject, and is a better reaſon for ſetling the Juriſdiction, than for ſerving the private ends of either Party. And there need be no more other weight laid upon what is urged from thence, but rather to paſs by all Diſputes of that kind, and not ſo much examine, whether Prohibitions have been duly or unduly ſent to the Admiralty, of which there will be no end; (as may appear by the ſeveral fruitleſs Tracts that have been publiſhed to that purpoſe on each ſide,) but rather to conſider, what is fit and expedient to be done for the general Advantage of the Kingdom; and what Courts, what Laws, and which Profeſſion can moſt eaſily and readily ad<g ref="char:EOLhyphen"/>miniſter Juſtice to the Subject in the foregoing Caſes.</p>
+         </div>
+         <div type="appendix">
+            <pb n="15" facs="tcp:96549:9"/>
+            <head>APPENDIX.</head>
+            <div type="petition">
+               <head>
+                  <hi>At</hi> Whitehall <hi>the</hi> 18th <hi>of</hi> February, 1632.</head>
+               <p>Preſent The King's Moſt Excellent Majeſty.
+<list>
+                     <item>Lord Keeper,</item>
+                     <item>L. Archb. of <hi>York,</hi>
+                     </item>
+                     <item>Lord Treaſurer,</item>
+                     <item>L. Privy-Seal,</item>
+                     <item>Earl Marſhal,</item>
+                     <item>L. Chamberlain,</item>
+                     <item>E. of <hi>Dorſet,</hi>
+                     </item>
+                     <item>E. of <hi>Carlile,</hi>
+                     </item>
+                     <item>E. <hi>Holland,</hi>
+                     </item>
+                     <item>E. <hi>Danby,</hi>
+                     </item>
+                     <item>L. Chanc. of <hi>Scot.</hi>
+                     </item>
+                     <item>E. <hi>Morton.</hi>
+                     </item>
+                     <item>L. V. <hi>Wimbledon,</hi>
+                     </item>
+                     <item>L. V. <hi>Wentworth,</hi>
+                     </item>
+                     <item>L. V. <hi>Falkeland,</hi>
+                     </item>
+                     <item>L. Bp. of <hi>London,</hi>
+                     </item>
+                     <item>L. <hi>Cottington,</hi>
+                     </item>
+                     <item>L. <hi>Newburgh,</hi>
+                     </item>
+                     <item>Mr. Treaſurer,</item>
+                     <item>Mr. Comptroler,</item>
+                     <item>Mr. V. Chamberl.</item>
+                     <item>Mr. Secr. <hi>Coke,</hi>
+                     </item>
+                     <item>Mr. Secretary</item>
+                     <item>
+                        <hi>Windebancke.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>THis Day His Majeſty being preſent in Council, the Ar<g ref="char:EOLhyphen"/>ticles and Propoſitions following, for the Accommodat<g ref="char:EOLhyphen"/>ing and Setling the Differences concerning Prohibitions a<g ref="char:EOLhyphen"/>riſing between His Majeſty's Courts at <hi>Weſtminſter,</hi> and His Court of Admiralty, were fully Debated and Reſolved by the Board. And were then likewiſe, upon reading the ſame, as well before the Judges of His Highneſs's ſaid Courts at <hi>Weſtminster,</hi> as before the Judge of His ſaid Court of Admi<g ref="char:EOLhyphen"/>ralty, and his Attorney General, agreed unto, and Sub-ſigned by them all in His Majeſties Preſence. And the Tranſcript thereof ordered to be entred into the Regiſter of Council-Cauſes. And the Original to remain in the Council-Cheſt.</p>
+               <list>
+                  <item>1. <hi>If Suit ſhall be commenced in the Court of Admiralty, upon Contracts made, or other things Perſonally done beyond the Sea, or upon the Sea, no Prohibition is to be awarded.</hi>
+                  </item>
+                  <item>2. <hi>If Suit be before the Admiral for Freight or Mariners Wages, or for the Breach of Charter-Parties, for Voyages to be made
+<pb n="16" facs="tcp:96549:10"/>beyond the Sea, though the Charter-Parties happen to be made within the Realm, and although the Mony be payable within the Realm, ſo as the Penalty be not demanded, A Prohibition is not to be granted. But if Suits be for the Penalty, or if the Que<g ref="char:EOLhyphen"/>stion be made, whether the Charter-Party were made or not, or whether the Plantiff did Releaſe, or otherwiſe Diſcharge the ſame within the Realm, That is to be tryed in the King's Court at</hi> Weſtminſter, <hi>and not in the King's Court of the</hi> Admiralty; <hi>ſo that first it be denied upon Oath, that a Char<g ref="char:EOLhyphen"/>ter-Party was made, or a Denial upon an Oath, tendered.</hi>
+                  </item>
+                  <item>3. <hi>If Suit ſhall be in the Court of Admiralty, for Building, A<g ref="char:EOLhyphen"/>mending, Saving, or neceſſary Victualing of a Ship againſt the Ship it ſelf, and not againſt any Party by Name, but ſuch as for his Intereſt makes himſelf a Party, no Prohibition is to be granted, though this be done within the Realm.</hi>
+                  </item>
+                  <item>4. <hi>Likewiſe the Admiral may enquire of, and redreſs all Annoy<g ref="char:EOLhyphen"/>ances and Obſtructions in all Navigable Rivers, beneath the first Bridges that are any Impediments to Navigation, or Paſ<g ref="char:EOLhyphen"/>ſage to or from the Sea; and alſo try Perſonal Contracts and Injuries done there, which concern Navigation upon the Sea: And no Prohibition is to be granted in ſuch Caſes.</hi>
+                  </item>
+                  <item>5. <hi>If any be Impriſoned, and upon</hi> Habeas Corpus, <hi>if any of theſe be the Cauſe of the Impriſonment, and that be ſo Cer<g ref="char:EOLhyphen"/>tified, the Party ſhall be Remanded.</hi>
+                  </item>
+               </list>
+               <closer>Signed,
+<signed>
+                     <list>
+                        <item>Tho. Richardſon,</item>
+                        <item>Rob. Heath.</item>
+                        <item>Humf. Davenport,</item>
+                        <item>John Denham,</item>
+                        <item>Richard Hutton,</item>
+                        <item>William Jones,</item>
+                        <item>George Croke,</item>
+                        <item>Tho. Trevor,</item>
+                        <item>George Vernon,</item>
+                        <item>James Weſton,</item>
+                        <item>Robert Barkley,</item>
+                        <item>Franc. Crawley,</item>
+                        <item>Henry Marten,</item>
+                        <item>William Noye.</item>
+                        <item>
+                           <hi>Examinat T. Meautys.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="proposition">
+               <pb n="17" facs="tcp:96549:10"/>
+               <head>
+                  <hi>At</hi> Whitehall <hi>the</hi> 22d. <hi>of</hi> February, 1632.</head>
+               <p>Preſent,
+<list>
+                     <item>Lord Keeper,</item>
+                     <item>L. Archbiſhop of <hi>York,</hi>
+                     </item>
+                     <item>L. Privy-Seal,</item>
+                     <item>Earl Marſhal,</item>
+                     <item>L. Chamberlain,</item>
+                     <item>E. <hi>Salisbury,</hi>
+                     </item>
+                     <item>L. V. <hi>Wentworth,</hi>
+                     </item>
+                     <item>L. V. <hi>Falkeland,</hi>
+                     </item>
+                     <item>L. <hi>Cottington,</hi>
+                     </item>
+                     <item>L. <hi>Newburgh,</hi>
+                     </item>
+                     <item>Mr. Treaſurer,</item>
+                     <item>Mr. Comptroler,</item>
+                     <item>Mr. Secretary <hi>Coke,</hi>
+                     </item>
+                     <item>Mr. Secretary <hi>Windebanck.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>IT was this Day thought fit and Ordered, That ſuch Pro<g ref="char:EOLhyphen"/>hibitions as have been ſent into the Admiralty-Court, from any of His Majeſty's Courts at <hi>Weſtminſter,</hi> falling under the Rules contained in the Articles Agreed on, and Signed in His Majeſty's Preſence, the 18th of this Inſtant, as well by all the Judges of His Majeſty's ſaid Courts at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> as by His Judge of the Admiralty, and his Attorney General, ſhould be with-drawn, and ſuperſeded; whereof the Judges of the ſaid Courts from whence ſuch Prohibitions have Iſſued, are hereby prayed and required to take Know<g ref="char:EOLhyphen"/>ledge, and to give Order therein accordingly.</p>
+               <closer>
+                  <signed>Examinat Meautys.</signed>
+               </closer>
+            </div>
+            <div type="petition">
+               <pb n="18" facs="tcp:96549:11"/>
+               <head>The Juriſdiction of the Court of <hi>Admiralty,</hi> Setled.</head>
+               <p>THE Lords and Commons aſſembled in Parliament,
+<note place="margin">
+                     <hi>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>obells</hi> Col. f. 147. <hi>Cap.</hi> 112.</note> finding many Inconveniences daily to ariſe, in relation both to the Trade of this Kingdom, and to the Commerce with Foreign Parts, through the uncertainty of Juriſdiction in the Trial of Maritime Cauſes; do Ordain; And be it Or<g ref="char:EOLhyphen"/>dained by Anthority of Parliament, That the Court of Ad<g ref="char:EOLhyphen"/>miralty ſhall have Cognizance and Juriſdiction againſt the Ship or Veſſel, with the Tackle, Apparel, and Furniture thereof, in all Cauſes which concern the Repairing, Victual<g ref="char:EOLhyphen"/>ing, and Furniſhing Proviſions for the ſetting of ſuch Ships or Veſſels to Sea, and in all Caſes of Bottomry; and likewiſe, in all Caſes of Contracts made beyond the Seas, concerning Shiping or Navigation, or Damages hapning thereon, or ariſing at Sea in any Voyage; and likewiſe, in all Caſes of Charter Parties, or Contracts for Freight, Bills of Lading, Mariners Wages, or Damages on Goods laden on Board Ships, or other Damages done by one Ship or Veſſel to ano<g ref="char:EOLhyphen"/>ther, or by Anchors, or want of laying of Buoys; except always, that the ſaid Court of Admiralty ſhall not hold Pleas, or admit Actions upon any Bills of Exchange, or Accounts betwixt Merchant and Merchant, or their Factors.</p>
+               <p>And be it Ordained, That in all, and every the Matters aforeſaid, the ſaid Admiralty Court ſhall and may proceed, and take Recognizances in due form, and Hear, Examine, and finally End, Decree, Sentence and Determine the ſame, according to the Laws and Cuſtoms of the Sea, and put the ſame Decrees and Sentences in Execution, without any Let, Trouble, or Impeachment whatſoever, any Law, Statute, or Uſage to the contrary heretofore made, in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding; ſaving always, and reſerving to all, and every Perſon and Perſons that ſhall find or think themſelves agriev<g ref="char:EOLhyphen"/>ed by any Sentence Definitive or Decree, having the force of a definitive Sentence, or importing a Damage not to be repaired in the definitive Sentence, given or interpoſed in the Court of Admiralty, in all or any of the Caſes aforeſaid, their Right of Appeal in ſuch Form as hath heretofore been uſed, from ſuch Decrees or Sentences in the ſaid Court of Admiral<g ref="char:EOLhyphen"/>ty.</p>
+            </div>
+            <div type="petition">
+               <pb n="19" facs="tcp:96549:11"/>
+               <head>TO THE King's Moſt Excellent Majeſty.
+<note place="margin">A Copy of the Petition to <hi>K C.</hi> II mentioned <hi>p.</hi> 13.</note>
+               </head>
+               <head type="sub">
+                  <hi>The Humble Petition of ſeveral Mer<g ref="char:EOLhyphen"/>chants, Owners, and Maſters of Ships, Victuallers, and Material-Men, be<g ref="char:EOLhyphen"/>longing to the City and Port of</hi> London.</head>
+               <opener>Sheweth,</opener>
+               <p>THat it has been anciently the Wiſdom of the Kings of <hi>England,</hi> your Majeſties moſt Royal Progenitors, ſo to provide for the Wealth and Good of Commerce, and Navigation, as to give it all Encouragement, and to remove all Obſtructions from it, your Wealth, Happineſs, and Honour, much conſiſting in it.</p>
+               <p>And more particularly, your Majeſties moſt Royal Father of bleſſed memory in the year 1632. taking notice of ſome differences concerning Prohibitions then ariſen, betwixt his Majeſties then Courts at <hi>Weſtminster,</hi> and his Majeſties Court of Admiralty, was graciouſly pleas'd to hear them Himſelf in full Council, and upon full Debate thereof, had the 18th. of <hi>February,</hi> 1632. Propoſitions for accommodating thereof were by his Majeſty, and the Board reſolved upon, and upon reading thereof, as well before the Judges of his Majeſties Court at <hi>Weſtminſter-Hall,</hi> as before the Judge of his Highneſs's ſaid Court of Admiralty, and his Attorney-General, agreed unto, and ſub<g ref="char:EOLhyphen"/>ſigned by them all in his Majeſties preſence, and entred in the Council Book, and the Orig'nal to remain in the Coun<g ref="char:EOLhyphen"/>cil-Cheſt, a Copy of which Order, Agreement, and Pro<g ref="char:EOLhyphen"/>poſitions is hereunto annexed.
+<note n="†" place="margin">See the Order above <hi>P.</hi> 15.</note>
+               </p>
+               <p>That the ſame Order, ſo made by your Majeſties ſaid Royal Father and the Board, and agreed unto and ſubſcri<g ref="char:EOLhyphen"/>bed by all the then Judges of <hi>England,</hi> did very much tend
+<pb n="20" facs="tcp:96549:12"/>to the Advancement of the Navigation and Commerce of this Nation, to the Encouragement both of the Merchants and Seamen, to the credit of Shipping with the Material-Men, to the furtherance of Ship-maſters, and Building of Ships, the Wooden Walls of the Kingdom, and to the keep<g ref="char:EOLhyphen"/>ing a right underſtanding abroad; for that the Foreign Contracts made beyond the Sea, and the matter of Char<g ref="char:EOLhyphen"/>ter-Parties for Voyages, all Ship-building, Repairing, Victualling of Ships, Mariners Wages, and other matters of meer Admiralty, did from thence forth proceed in their due courſe in the ſaid Court of Admiralty, by the Rule of the Civil and Maritime Laws, well known abroad as well as here, and that without either being Prohibited or In<g ref="char:EOLhyphen"/>terrupted: By which Encouragement, and for that as well the People here, as Foreigners, had ſpeedy Juſtice in the Admiralty, by one Common Rule well known to them all, more Ships were Builded, Freighted, ſet out to Sea, more Voyages and Returns made, Commerce flouriſhed, the Wealth of the Kingdom encreaſed, and his late Majeſties Cuſtoms and Revenues were advanced.</p>
+               <p>But for as much as there have been of late Obſtructions ariſen by the Grant of Prohibitions in cauſes of Charter-Parties, Repairing and Building of Ships, Mariners Wa<g ref="char:EOLhyphen"/>ges, and other the cauſes and caſes ſo ſetled as aforeſaid by his late Majeſty and the Board, with the conſent and agreement of all the then Judges; Your Petitioners do ſen<g ref="char:EOLhyphen"/>ſibly perceive, that unleſs by the Piety, and Wiſdom of your Majeſty, your Majeſties Court of Admiralty be eſta<g ref="char:EOLhyphen"/>bliſhed in its Juriſdiction, that it may miniſter due Juſtice in all theſe and other caſes of Admiralty, without being Prohibited or Obſtructed; The building of Ships will be diſcouraged, the Material-Men will not truſt upon the credit of the Ship, fewer Voyages to Sea, and Returns from thence will be made, Trade and a right underſtanding a<g ref="char:EOLhyphen"/>broad (eſpecially ſince all ſuch cauſes, and matters are a<g ref="char:EOLhyphen"/>broad referred to the Admiralty) will decreaſe, and your Majeſty's Cuſtoms be leſſened, and Ship Maſters, and Seamen, as well as Merchants be endamaged, and much more Inconveni<g ref="char:EOLhyphen"/>ences enſue alſo.</p>
+               <p>
+                  <hi>The Petitioners, who do heartily upon their bended Knees bleſs God for your Majeſties most Happy and Glorious Reſtauration, to your Crowns and Kingdoms, and do
+<pb n="21" facs="tcp:96549:12"/>Humbly and Devotedly pray that the ſame may Flouriſh, and that your Majeſty may enjoy a Long Peaceable and Proſperous Reign, do humbly ſubmit it to your Majeſties most Wiſe and Prudent conſideration, whether your Ma<g ref="char:EOLhyphen"/>jeſty in a matter of this <g ref="char:V">Ʋ</g>niverſal Concernment, will not be pleaſed upon the peruſal of the ſaid Order annexed, to tread in your Majeſties moſt Royal Fathers Steps, and to call your Majeſties Judges, or ſuch others as your Majeſty ſhall hold requiſite to be preſent at your Majeſties Council Board, and cauſe the ſaid former Order to be renewed and confirmed, and to be inviolably obſerved, that your Majeſty will in your own great Wiſdom do therein for the good of your Kingdoms, Commerce, Shipping and Navigation, as to your Majeſty ſhall ſeem requiſite.</hi>
+               </p>
+               <closer>And your Petitioners ſhall ever Pray.
+<signed>
+                     <list>
+                        <item>
+                           <hi>Will. Batten,</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Penn,</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Rider,</hi>
+                        </item>
+                        <item>
+                           <hi>Nic. Harleſtone,</hi>
+                        </item>
+                        <item>
+                           <hi>Law. Moyer,</hi>
+                        </item>
+                        <item>
+                           <hi>Brian Harriſon,</hi>
+                        </item>
+                        <item>
+                           <hi>Edw. Jonſon,</hi>
+                        </item>
+                        <item>
+                           <hi>Daniel Gates,</hi>
+                        </item>
+                        <item>
+                           <hi>John Lainbery,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. White,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Harman,</hi>
+                        </item>
+                        <item>
+                           <hi>John Caſſe,</hi>
+                        </item>
+                        <item>
+                           <hi>John Prowd,</hi>
+                        </item>
+                        <item>
+                           <hi>John Swanley,</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Wilde,</hi>
+                        </item>
+                        <item>
+                           <hi>Jam. Modyford,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Lant,</hi>
+                        </item>
+                        <item>
+                           <hi>Greg. Weſcomb,</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Weſcomb,</hi>
+                        </item>
+                        <item>
+                           <hi>Nich. Warren,</hi>
+                        </item>
+                        <item>
+                           <hi>Rich. Lant,</hi>
+                        </item>
+                        <item>
+                           <hi>Jam. St. Hill,</hi>
+                        </item>
+                        <item>
+                           <hi>John Marſhal,</hi>
+                        </item>
+                        <item>
+                           <hi>John Harbin,</hi>
+                        </item>
+                        <item>
+                           <hi>Philip Payne,</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Wood,</hi>
+                        </item>
+                        <item>
+                           <hi>Nich. Bradley,</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Greene,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Gates,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſhua Waters,</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Clarke,</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Wood,</hi>
+                        </item>
+                        <item>
+                           <hi>George Percy,</hi>
+                        </item>
+                        <item>
+                           <hi>John Frederick,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Bludworth,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Brodrick,</hi>
+                        </item>
+                        <item>
+                           <hi>John Bull,</hi>
+                        </item>
+                        <item>
+                           <hi>Ri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>h. W<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſcomb,</hi>
+                        </item>
+                        <item>
+                           <hi>John Maſcal,</hi>
+                        </item>
+                        <item>
+                           <hi>David Skynner,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Andrews,</hi>
+                        </item>
+                        <item>
+                           <hi>John Lemkuele,</hi>
+                        </item>
+                        <item>
+                           <hi>Law. Blankcart,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Bantry,</hi>
+                        </item>
+                        <item>
+                           <hi>Godfrey Lee,</hi>
+                        </item>
+                        <item>
+                           <hi>John Paige,</hi>
+                        </item>
+                        <item>
+                           <hi>Chriſtop. Boone,</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Vandeput,</hi>
+                        </item>
+                        <item>
+                           <hi>John Moone,</hi>
+                        </item>
+                        <item>
+                           <hi>Alex. Bence,</hi>
+                        </item>
+                        <item>
+                           <hi>John Soame,</hi>
+                        </item>
+                        <item>
+                           <hi>Charles Michel,</hi>
+                        </item>
+                        <item>
+                           <hi>Na. Houldings,</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Leare,</hi>
+                        </item>
+                        <item>
+                           <hi>Rich. Ford,</hi>
+                        </item>
+                        <item>
+                           <hi>John Jollife,</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Canning.</hi>
+                        </item>
+                        <item>
+                           <hi>John Harris,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Warren,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Debins,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Cambel,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Davies,</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Walker,</hi>
+                        </item>
+                        <item>
+                           <hi>Rich. Adames,</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Ellis,</hi>
+                        </item>
+                        <item>
+                           <hi>C. Bennet,</hi>
+                        </item>
+                        <item>
+                           <hi>Edw. Lopegood,</hi>
+                        </item>
+                        <item>
+                           <hi>Nich. Meade,</hi>
+                        </item>
+                        <item>
+                           <hi>Sam. Put,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Canham,</hi>
+                        </item>
+                        <item>
+                           <hi>Tim. Alſop,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Tyte,</hi>
+                        </item>
+                        <item>
+                           <hi>Dan. Ford,</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Hooker,</hi>
+                        </item>
+                        <item>
+                           <hi>Nich. Corſellis,</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Proby,</hi>
+                        </item>
+                        <item>
+                           <hi>Andr. King,</hi>
+                        </item>
+                        <item>
+                           <hi>George Smith,</hi>
+                        </item>
+                        <item>
+                           <hi>John Dickens,</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Parker,</hi>
+                        </item>
+                        <item>
+                           <hi>John Heath,</hi>
+                        </item>
+                        <item>
+                           <hi>Edw. Wambwel,</hi>
+                        </item>
+                        <item>
+                           <hi>Ant. Nicholetts,</hi>
+                        </item>
+                        <item>
+                           <hi>Edw. Lewes,</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Culling,</hi>
+                        </item>
+                        <item>
+                           <hi>Rich. David,</hi>
+                        </item>
+                        <item>
+                           <hi>James Young,</hi>
+                        </item>
+                        <item>
+                           <hi>Nath. Tenche,</hi>
+                        </item>
+                        <item>
+                           <hi>George Maryet,</hi>
+                        </item>
+                        <item>
+                           <hi>R. Church, Jun.</hi>
+                        </item>
+                        <item>
+                           <hi>Nat. Townſend,</hi>
+                        </item>
+                        <item>
+                           <hi>Jacob Wachter,</hi>
+                        </item>
+                        <item>
+                           <hi>Pe. Heninghook,</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Gale,</hi>
+                        </item>
+                        <item>
+                           <hi>Ger. Weyman,</hi>
+                        </item>
+                        <item>
+                           <hi>Nich. Skinner,</hi>
+                        </item>
+                        <item>
+                           <hi>Edw. Bouverie,</hi>
+                        </item>
+                        <item>
+                           <hi>Mich. Godfrey,</hi>
+                        </item>
+                        <item>
+                           <hi>And. West.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
